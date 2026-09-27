@@ -34,3 +34,7 @@
 
 ## หมายเหตุ production
 การเชื่อมผู้ให้บริการชำระเงิน, carrier tracking แบบ API จริง, object storage/CDN, SMTP provider จริง, backup/monitoring และ deployment ยังต้องใส่ credential/บริการของผู้ใช้งานก่อนขึ้น production เพราะเป็นข้อมูลและบริการภายนอกระบบ
+
+## Sample book cover images
+
+This version includes local sample cover artwork in `public/covers/` so the homepage, catalog, book detail, and dashboard show actual book-cover images instead of placeholder blocks. The artwork is original PaperTown sample artwork and does not require an external image service.
